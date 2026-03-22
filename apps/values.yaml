@@ -8,4 +8,5 @@ config:
 
 applications:
   - name: guestbook
+  - name: helm-guestbook
   - name: sync-waves
